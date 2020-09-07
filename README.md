@@ -23,3 +23,7 @@
 - 如果想修改启动端口
 
 > 可以更改ssh服务的配置文件(/etc/ssh/sshd_config)
+  
+## linux目录
+
+![linux目录](./img/52e425f5cf6299e71903bcb9e245731.png)
