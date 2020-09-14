@@ -50,3 +50,4 @@
 > rmdir -p parent/child/child11(当parent子目录被删除后使它也成为空目录的话，则顺便一并删除)
 
 ## mv
+
